@@ -1,0 +1,11 @@
+﻿  Customer.cpp
+C:\Users\Radwa.Mansour\source\repos\MyProjectFCIS\MyProjectFCIS\Customer.cpp(288,11): warning C4102: 'defult': unreferenced label
+C:\Users\Radwa.Mansour\source\repos\MyProjectFCIS\MyProjectFCIS\Customer.cpp(114,10): warning C4101: 'tprice': unreferenced local variable
+  Product.cpp
+C:\Users\Radwa.Mansour\source\repos\MyProjectFCIS\MyProjectFCIS\Product.cpp(12,20): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\Radwa.Mansour\source\repos\MyProjectFCIS\MyProjectFCIS\Product.cpp(14,25): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  Seller.cpp
+  Source.cpp
+C:\Users\Radwa.Mansour\source\repos\MyProjectFCIS\MyProjectFCIS\Source.cpp(270,15): warning C4101: 'YourCh2': unreferenced local variable
+  Generating Code...
+  MyProjectFCIS.vcxproj -> C:\Users\Radwa.Mansour\source\repos\MyProjectFCIS\x64\Debug\MyProjectFCIS.exe
